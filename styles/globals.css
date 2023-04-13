@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+:root {
+  --color-footer-bg: #282828;
+  --color-white: #fff;
+  --color-green: #7ec242;
+  --color-yellow: #ffb43e;
+
+  --transition: all 0.5s ease;
+}
+
+.btn {
+  border: none;
+  padding: 1rem 2rem;
+  background-color: var(--color-yellow);
+  border-radius: 2rem;
+  color: var(--color-white);
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  transition: var(--transition);
+}
+
+.btn:hover {
+  color: #ffb43e;
+  border: 1px solid #ffb43e;
+}
