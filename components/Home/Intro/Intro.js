@@ -11,10 +11,7 @@ const Intro = () => {
       <div className={styles.content}>
         <h2>We Are The Agent Of Earth</h2>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dignissimos
-          omnis incidunt nisi veniam necessitatibus tempora quo distinctio amet
-          saepe maxime. Perferendis voluptate consectetur ullam. Sunt esse ullam
-          eveniet temporibus repudiandae?
+        As an agent of Earth, it is our responsibility to protect and preserve biodiversity. We must take action to safeguard the multitude of species that inhabit our planet, from the smallest microorganisms to the largest mammals. By doing so, we not only ensure the survival of individual species, but we also protect the delicate balance of our ecosystems, which are essential to our own survival.
         </p>
         <button className="btn">Read more</button>
       </div>

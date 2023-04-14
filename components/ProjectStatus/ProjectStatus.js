@@ -6,19 +6,12 @@ const ProjectStatus = () => {
       <div className={styles.content}>
         <h1>Overview</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quos eius
-          optio eveniet recusandae ut dignissimos voluptas ullam id earum, quam
-          sint dolorum qui quibusdam vel distinctio! Quae debitis a illo nihil
-          aut minima eaque odio. Eum qui neque ipsum illo nihil animi excepturi.
-          Delectus facere earum enim quisquam ducimus! Ex.
+        Forest restoration is a process of regaining the ecological functionality and enhancing the biodiversity of degraded, damaged or destroyed forests. It involves active human intervention to create new forest cover where it has been lost, or to increase the density and diversity of existing forests. Forest restoration aims to recover forest ecosystems, providing a range of environmental, social and economic benefits, such as carbon sequestration, water conservation, erosion control, wildlife habitat, and the provision of goods and services for local communities. Forest restoration is an important approach to mitigate the negative impacts of deforestation and forest degradation and to contribute to global efforts to combat climate change.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, tenetur
-          dolore? Nulla facilis consequatur et blanditiis sunt similique
-          sapiente, suscipit officiis velit voluptate beatae non eius voluptatum
-          fugiat explicabo architecto perspiciatis est, nesciunt ea delectus
-          iste sequi dicta a accusantium! Incidunt veritatis quae velit aliquam
-          modi totam cum beatae cupiditate!
+        Forest restoration efforts are often undertaken in response to deforestation, forest degradation, and other forms of environmental damage caused by human activities. These activities can lead to soil erosion, loss of biodiversity, and a decline in ecosystem services, such as clean water and carbon storage. Forest restoration can help to address these problems by repairing damaged ecosystems, providing habitat for wildlife, and improving the livelihoods of local communities who rely on forest resources.
+
+Forest restoration is a complex process that requires a multi-disciplinary approach, involving scientists, foresters, policymakers, and local communities. It involves careful planning and monitoring to ensure that restoration activities are appropriate for the local context and that they are achieving their desired outcomes. Successful forest restoration can have a range of benefits, including improved environmental health, increased biodiversity, and greater social and economic opportunities for local communities.
         </p>
       </div>
       <div className={styles.map}>

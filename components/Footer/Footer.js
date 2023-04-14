@@ -15,25 +15,24 @@ const CustomFooter = () => {
           {/*  to be changed to logo */}
           <h1>Conservation Resources Hub</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde sed
-            illum nostrum adipisci nemo aut.
+          We can all play a role in protecting biodiversity, no matter how small. By making simple changes in our daily lives, such as reducing our use of single-use plastics or supporting environmentally conscious companies, we can make a difference
           </p>
         </div>
         <div className={styles.contact}>
           <h3>Contact Info</h3>
-          <span>Address: 124 Random Adress</span>
+          <span>Address: 124 lovely professional university</span>
           <div className="icon__container">
             <div className={styles.info}>
               <BsFillTelephoneFill />
-              <span> +1800-222-3333</span>
+              <span> +91600-222-3333</span>
             </div>
             <div className={styles.info}>
               <MdSmartphone />
-              <span> +1800-222-3333</span>
+              <span> +91500-222-3333</span>
             </div>
             <div className={styles.info}>
               <FiMail />
-              <span> contact@renewable.com</span>
+              <span> contact@werenewable.com</span>
             </div>
           </div>
         </div>

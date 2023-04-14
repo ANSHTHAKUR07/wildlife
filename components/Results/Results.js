@@ -7,12 +7,12 @@ const Results = () => {
   const content = [
     {
       title: 'Our Effort',
-      desc: 'Donec in posuere ipsum. Etiam hendrerit elit lorem, in elementum tortor finibus nec. Pellentesque at ex sed augue tempus suscipit id ac erat. Pellentesque feugiat elit nec volutpat efficitur. Ut lacinia molestie quam in varius. Fusce eu est ac libero porta molestie. Vestibulum commodo vitae neque nec volutpat. Sed porttitor pulvinar ipsum a accumsan.',
+      desc: 'Our organization is committed to the restoration of degraded and deforested areas, and we have been working tirelessly towards this goal. Our efforts include planting native tree species, conducting forest inventory assessments, removing invasive species, and implementing sustainable land use practices. We work closely with local communities to ensure their participation and support in these restoration efforts, as well as to provide training and education on sustainable forest management practices. Through our dedication and hard work, we aim to restore biodiversity and ecosystem services, enhance carbon sequestration, and improve the livelihoods of local communities who depend on healthy forest ecosystems. We are proud of the progress we have made and remain committed to continuing our efforts towards the restoration of degraded forest ecosystems.',
       img: img1,
     },
     {
       title: 'The Result',
-      desc: 'Donec in posuere ipsum. Etiam hendrerit elit lorem, in elementum tortor finibus nec. Pellentesque at ex sed augue tempus suscipit id ac erat. Pellentesque feugiat elit nec volutpat efficitur. Ut lacinia molestie quam in varius. Fusce eu est ac libero porta molestie. Vestibulum commodo vitae neque nec volutpat. Sed porttitor pulvinar ipsum a accumsan.',
+      desc: 'Forest restoration has helped and  aimmed to bring back degraded forest areas to their original condition, and to improve the overall health and biodiversity of the forest ecosystem. When successful, these efforts can have a wide range of benefits, including the provision of habitat for wildlife, the protection of watersheds, and the sequestration of carbon.',
       img: img2,
     },
   ];
